@@ -1,7 +1,8 @@
+#include<iostream>
 struct hello_world{
  void print_hello()
  {
-   cout<<"Hello";
+   std::cout<<"Hello";
  }
 };
 
